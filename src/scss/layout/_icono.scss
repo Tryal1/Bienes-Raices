@@ -1,0 +1,17 @@
+.icono {
+  img {
+    height: 10rem;
+  }
+  h3 {
+    text-transform: uppercase;
+  }
+  p {
+    font-size: 1.8rem;
+  }
+}
+
+.iconos-nosotros {
+  @include tablet {
+    @include grid(3, 2rem);
+  }
+}

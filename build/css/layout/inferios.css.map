@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/inferios.scss"],"names":[],"mappings":"AAAA,kBACE,YAAa,CACb,6BAA8B","file":"inferios.css","sourcesContent":[".seccion-inferior {\r\n  display: flex;\r\n  justify-content: space-between;\r\n}\r\n"]}
